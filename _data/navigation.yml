@@ -1,0 +1,31 @@
+# main links
+main:
+  - title: "Algorithms & Data Structures"
+    url: "/algo_ds/"
+  - title: "System Design"
+    url: "/sys_design/"
+  - title: "Machine Learning"
+    url: "/ml/"
+  - title: "Data Science"
+    url: /data_science/"
+  - title: "Big Data"
+    url: "/big_data"
+  - title: "Distributed Systems"
+    url: "/dist_systems/"
+  - title: "C/C++"
+    url: "/c_plus_plus/"
+  - title: "Computer Architecture"
+    url : "/comp_arch/"
+  - title: "Operating System"
+    url: "/opr_system/"
+  - title: "Computer Network"
+    url: "/comp_net/"
+  
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

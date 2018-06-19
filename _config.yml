@@ -101,12 +101,12 @@ analytics:
 # Site Author
 author:
   name             : "Rohit Jain"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer | Applied Machine Learning Student Researcher"
+  avatar           : "/assets/images/bio-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Software Engineer | Machine Learning Student Researcher"
   location         : "Gainesville, FL"
   email            :
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : /about/ # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -277,7 +277,7 @@ defaults:
       layout: single
       author_profile: true 
       
-
+#original script
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
